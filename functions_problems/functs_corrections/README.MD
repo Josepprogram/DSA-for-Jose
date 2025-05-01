@@ -1,0 +1,1 @@
+En esta carpeta van las correciones de los problemas con funciones.
